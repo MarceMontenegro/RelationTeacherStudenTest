@@ -1,0 +1,15 @@
+D:\C# course\Persona\Persona\bin\Debug\net7.0\PersonaProyecto.exe
+D:\C# course\Persona\Persona\bin\Debug\net7.0\PersonaProyecto.deps.json
+D:\C# course\Persona\Persona\bin\Debug\net7.0\PersonaProyecto.runtimeconfig.json
+D:\C# course\Persona\Persona\bin\Debug\net7.0\PersonaProyecto.dll
+D:\C# course\Persona\Persona\bin\Debug\net7.0\PersonaProyecto.pdb
+D:\C# course\Persona\Persona\obj\Debug\net7.0\PersonaProyecto.csproj.AssemblyReference.cache
+D:\C# course\Persona\Persona\obj\Debug\net7.0\PersonaProyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# course\Persona\Persona\obj\Debug\net7.0\PersonaProyecto.AssemblyInfoInputs.cache
+D:\C# course\Persona\Persona\obj\Debug\net7.0\PersonaProyecto.AssemblyInfo.cs
+D:\C# course\Persona\Persona\obj\Debug\net7.0\PersonaProyecto.csproj.CoreCompileInputs.cache
+D:\C# course\Persona\Persona\obj\Debug\net7.0\PersonaProyecto.dll
+D:\C# course\Persona\Persona\obj\Debug\net7.0\refint\PersonaProyecto.dll
+D:\C# course\Persona\Persona\obj\Debug\net7.0\PersonaProyecto.pdb
+D:\C# course\Persona\Persona\obj\Debug\net7.0\PersonaProyecto.genruntimeconfig.cache
+D:\C# course\Persona\Persona\obj\Debug\net7.0\ref\PersonaProyecto.dll
